@@ -1,0 +1,52 @@
+body
+{
+	max-width:1600px;
+	height:100%;
+}
+
+.container
+{
+	width:97%;
+	height:auto;
+	border:2px solid orange;
+	background-color:blue;
+	padding:10px;
+}
+
+.left-column
+{
+	width:60%;
+	height:650px;
+	max-width:60%;
+	background-color:orange;
+	border:1px solid white;
+	text-align:center;
+	display:inline-block;
+}
+
+.image-container
+{
+	width:100%;
+	height:auto;
+}
+
+.david
+{
+	width:90%;
+	height:auto;
+	border:1px solid white;
+}
+
+.right-column
+{
+	width:37%;
+	height:650px;
+	text-align:center;
+	display:inline-block;
+}
+
+.text-column
+{
+	font-family:'Enriqueta';
+	color:white;
+}
